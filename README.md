@@ -24,5 +24,7 @@ With experience in web development and a greater focus on Back-end, I'm always l
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
+##
+<p align="center">
+  <img src="https://i.redd.it/wfrnaqq0pe3z.png" height="450" alt="Imagem 2">
+</p>
